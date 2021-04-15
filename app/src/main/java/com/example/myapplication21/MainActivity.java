@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         ingreso = (Button)findViewById(R.id.button);
         itexto = (EditText) findViewById(R.id.Itexto);
-
+asd
     }
     public void enviarDatos(View view){
         Intent trab = new Intent (MainActivity.this,MainActivity2.class);
